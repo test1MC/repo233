@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" MasterStylesheetOverride="True" xml:lang="en-us" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." SourceControlBound="true" SourceControlDatabase="http://win2k19tfs18.madcap.corp:8080/tfs/QA/ " SourceControlProviderType="Microsoft Team Foundation Server" SourceControlDatabaseRoot="$/Test1/boo2/">
+</CatapultProject>
